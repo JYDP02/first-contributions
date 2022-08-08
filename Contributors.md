@@ -4,6 +4,7 @@
 
 - [Matthew Gigante](https://github.com/matthew0420)
 - [Samuel Echols](https://github.com/sechols223)
+- [Jaydeep Ghvariya](https://github.com/JYDP02)
 aestadt
 - [Yasier Ansari](https://github.com/yasier-ansari)
 - [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
